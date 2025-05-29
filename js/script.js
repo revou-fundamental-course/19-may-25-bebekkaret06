@@ -94,9 +94,6 @@ function reverse() {
   konversi();
 }
 
-
-
-
 // Hubungkan tombol button
 document.addEventListener("DOMContentLoaded", function () {
   const buttons = document.querySelectorAll("button");
