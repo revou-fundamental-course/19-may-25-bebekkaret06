@@ -87,8 +87,8 @@ function reverse() {
     : "Masukkan Suhu (°C):";
 
   labelHasil.innerText = isReversed
-    ? "Celsius (derajat C):"
-    : "Fahrenheit (derajat F):";
+    ? "Celsius (°C):"
+    : "Fahrenheit (°F):";
 
   // Jalankan konversi ulang
   konversi();
